@@ -1,0 +1,24 @@
+plymouth
+update and upgrade
+update apktool
+install apktool dependencies
+apt-get install lib32stdc++6 lib32ncurses6 lib32z1
+applet 
+plank
+proxychains
+chrmome/anydesk
+lazy/xerosploit/fatrat
+hiddeneye
+socialfish
+bettercap
+figlet
+
+
+terminal font wrap
+export TERM=cygwin
+
+
+
+shortcuts
+~/.bashrc
+
